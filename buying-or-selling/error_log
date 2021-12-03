@@ -1,0 +1,8 @@
+[11-Sep-2021 20:55:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/u723458730/domains/forthwego.com/public_html/properties/buying-or-selling/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/u723458730/domains/forthwego.com/public_html/properties/buying-or-selling/index.php on line 66
+[11-Sep-2021 20:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/u723458730/domains/forthwego.com/public_html/properties/buying-or-selling/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/u723458730/domains/forthwego.com/public_html/properties/buying-or-selling/index.php on line 66

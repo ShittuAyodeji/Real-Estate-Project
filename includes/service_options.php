@@ -1,0 +1,14 @@
+<option value="Plumbing" >Plumbing</option>
+<option value="Elecricals">Elecricals</option>
+<option value="Home Appliances">Home Appliances</option>
+<option value="Painting ">Painting </option>
+<option value="Construction ">Construction </option>
+<option value="Pest control">Pest control</option>
+<option value="Renovation">Renovation & Refurbishment</option>
+<option value="Interior Decoration">Interior Decoration</option>
+<option value="Moving">Moving</option>
+<option value="TV Installation">TV Installation</option>
+<option value="Furnitures">Furnitures</option>
+<option value="CCTV Installation">CCTV Installation</option>
+<option value="Security">Security</option>
+<option value="Curtain">Curtain & Window blinds</option>

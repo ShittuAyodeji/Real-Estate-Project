@@ -1,0 +1,1 @@
+[09-Sep-2021 23:04:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u914380686_property'@'localhost' (using password: YES) in /home/u723458730/domains/forthwego.com/public_html/properties/database/connect.php on line 3

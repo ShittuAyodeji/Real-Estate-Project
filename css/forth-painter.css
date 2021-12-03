@@ -1,0 +1,30 @@
+.mc{
+	margin-left:calc(50% - 100px);
+}
+.text-ac{
+	text-align:center;
+}
+.flex{
+	display:flex;
+}
+.flex-jc{
+	justify-content:center;
+}
+.flex-jsb{
+	justify-content:space-between;
+}
+
+.flex-ac{
+	align-items:center;
+}
+.flex-direction-col{
+	flex-direction:column;
+}
+.object-fit-cover{
+	height:100%;
+	width:100%;
+	object-fit:cover;
+}
+.bold{
+	font-weight:bold;
+}
